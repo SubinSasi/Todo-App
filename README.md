@@ -21,4 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Screenshot
 
-![Screenshot (244)](https://user-images.githubusercontent.com/97297260/162754413-ec92c81b-0968-409a-b727-cd29edd85f47.png)
+![Screenshot (245)1](https://user-images.githubusercontent.com/97297260/162755345-855daf90-d204-472d-9edd-65721ba7cad5.png)
+
